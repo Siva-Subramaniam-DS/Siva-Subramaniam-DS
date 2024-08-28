@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Siva Subramaniam</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siva-subramaniam-ds&label=Profile%20views&color=0e75b6&style=flat" alt="siva-subramaniam-ds" /> </p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; text-align: left;">
+    <p>Hello! I’m a passionate backend developer with experience in various technologies. I love coding and solving complex problems. Feel free to explore my work and get in touch!</p>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVlYzNzdjNuNnNnMnZzYTJzNWk3ZHRlY2llZDFyaWJ3N2I3NmJ3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yyVph7ANKftIs/giphy.gif" alt="Funny GIF" style="max-width: 100%; height: auto;" />
+  </div>
+</div>
 
 - 🔭 I’m currently working on **JD Edwards, RPG 3 and AS400**
 
