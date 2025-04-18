@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siva-subramaniam-ds&label=Profile%20views&color=0e75b6&style=flat" alt="siva-subramaniam-ds" /> </p>
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR5cDVicHptcjVwdTA3OTdpNTVtZXhlZnhtdnUzaTdoMGxjeGQwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif"  />
 
-- 🔭 I’m currently working on **JD Edwards, RPG 3 and AS400**
+- 🔭 Internship **JD Edwards, RPG 3 and AS400**
 
 - 🌱 I’m currently learning **Artificial Intelligent & Data Science**
 
