@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligent & Data Science**
 
-- 📫 How to reach me **sivapvt2001@gmail.com**
+- 📫 How to reach me **sivasubramaniam141@gmail.com**
 
 - 📄 Know about my experiences [https://sivapvt2001.wixsite.com/my-portfolio](https://sivapvt2001.wixsite.com/my-portfolio)
 
