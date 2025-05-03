@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sivasubramaniam141@gmail.com**
 
-- 📄 Know about my experiences [https://sivapvt2001.wixsite.com/my-portfolio](https://sivapvt2001.wixsite.com/my-portfolio)
+- 📄 Know about my experiences [https://siva-subramaniam-ds.github.io/Portfolio_Web/](https://siva-subramaniam-ds.github.io/Portfolio_Web/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
