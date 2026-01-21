@@ -7,11 +7,11 @@
 
 - 🔭 Internship **JD Edwards, RPG 3 and AS400**
 
-- 🌱 I’m currently learning **Artificial Intelligent & Data Science**
+- 🌱 I’m currently working as **AI & ML Consultant**
 
 - 📫 How to reach me **sivasubramaniam141@gmail.com**
 
-- 📄 Know about my experiences [https://siva-subramaniam-ds.github.io/Portfolio_Web/](profolio-siva-c003.up.railway.app)
+- 📄 Know about my experiences [https://siva-subramaniam-ds.github.io/Portfolio_Web/](https://profolio-siva-0000.up.railway.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
