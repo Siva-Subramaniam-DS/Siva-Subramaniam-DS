@@ -1,27 +1,134 @@
-`🔴🟢🟡 Siva-Subramaniam-DS —⠀❐⠀⤬`
-<h1 align="center">Hi 👋, I'm Siva Subramaniam R</h1>
-<h3 align="center">AI & ML Consultant & Researcher </h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siva-subramaniam-ds&label=Profile%20views&color=0e75b6&style=flat" alt="siva-subramaniam-ds" /> </p>
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR5cDVicHptcjVwdTA3OTdpNTVtZXhlZnhtdnUzaTdoMGxjeGQwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif"  />
+# 🔮 Siva Subramanian R
+### **AI & ML Consultant | Data Scientist | Full Stack Developer**
 
-- 🔭 Internship **JD Edwards, RPG 3, AS400 and Computer Vision Specialist**
+<img src="mental_wellness.gif" width="600" alt="Mental Wellness & Motivation" />
 
-- 🌱 I’m currently working as **AI & ML Consultant**
+<br /><br />
 
-- 📫 How to reach me **sivasubramaniam141@gmail.com**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=%F0%9F%8E%AE+AI+%26+ML+Consultant+%40+Innova8s;%F0%9F%94%A5+Patent+Holder+%7C+Real-Time+CV+Fire+Detection;%F0%9F%98%8A+Mental+Wellness+%26+Mindfulness+Advocate;%F0%9F%A7%A0+Deep+Learning+%26+Computer+Vision+Wizards" alt="Typing SVG" />
 
-- 📄 Know about my experiences [Portfolio_Web](https://profolio-siva-0000.up.railway.app)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@sivasubbu1_4_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sivasubbu1_4_1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in//r-siva-subramanaiam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/r-siva-subramanaiam/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/r-siva-subramanaiam/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/SivaSubbu1_4_1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=white&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:sivasubramaniam141@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siva-subramaniam-ds&show_icons=true&locale=en" alt="siva-subramaniam-ds" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siva-subramaniam-ds&" alt="siva-subramaniam-ds" /></p>
+### 🎮 Character Stats: Siva Subramanian R
+
+```yaml
+Class:        AI-ML Consultant & Full-Stack Mage 🔮
+Level:        26 ⚡ (M.Sc. AI & Data Science Candidate)
+Attributes:   +99 Deep Learning, +95 Computer Vision, +90 Legacy Mainframe (RPG III)
+Main Quest:   Building & scaling production-grade AI platforms at Innova8s Pte Ltd
+Achievements: 🏆 Co-inventor & Patent Holder of ML Fire/Smoke Detection System (2024)
+Active Buffs: 👟 10KM Marathon Runner, 😊 Mental Wellness Advocate, 🤝 Volunteer
+HP:           ████████████████ 100% (High Energy & Mindfulness)
+Mana:         ████████████░░░░  80% (Coffee-Fueled & Ready to Automate)
+```
+
+> *“Bridging legacy mainframe architectures with cutting-edge neural networks to build beautiful, intelligent systems that make an impact.”*
+
+I am an **AI & ML Consultant** and **Full Stack Developer** who loves crafting elegant code and automation workflows. By day, I'm containerizing deep learning models using Docker & Kubernetes and fine-tuning computer vision algorithms. By night, I'm building modern React applications with fluid GSAP animations or studying the mechanics of legacy enterprise mainframes.
+
+- 🤖 **Neural Innovation:** Co-invented and patented a machine learning system for real-time fire and smoke detection using advanced computer vision models (2024).
+- 💾 **Mainframe to Cloud:** Experienced in RPG III systems for enterprise heavyweights like **Caterpillar**, translating legacy database operations into sleek modern cloud infrastructures.
+- 🎓 **Infinite Loop of Learning:** Pursuing M.Sc. in AI & Data Science at SRM University while actively consulting and contributing to open-source systems.
+- 👟 **Active Runner:** Keeping the mind and body in sync—I regularly run 10Ks, volunteer at the Leo Club, and organize local tech meetups.
+
+---
+
+### ⚡ Tech Stack & Spells
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,js,react,html,css,mongodb,postgres,docker,kubernetes,gcp,figma,tailwind,git,vscode" alt="My Tech Stack" />
+  </a>
+</p>
+
+---
+
+### 🎨 Highlighted Creations
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚜 GeoGreenAI</h4>
+      <p>AI-powered environmental analytics dashboard processing satellite imagery to assess green cover, urban planning, and air quality indices.</p>
+      <code>Python</code> <code>TensorFlow</code> <code>GCP</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎮 Raja Ranji</h4>
+      <p>Interactive digital recreation of the traditional South Indian board game featuring rich soundscapes and fluid GSAP visual choreography.</p>
+      <code>React.js</code> <code>GSAP</code> <code>Web Audio API</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>👁️ Intelligent Face Recognition</h4>
+      <p>Modular real-time deep neural network pipeline designed for rapid face identification, enrollment database administration, and visual analytics.</p>
+      <code>Python</code> <code>PyTorch</code> <code>OpenCV</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💰 Loan Risk Analytics</h4>
+      <p>Predictive modeling framework leveraging user financial credit vectors to evaluate approval probabilities and risk thresholds.</p>
+      <code>Scikit-Learn</code> <code>Pandas</code> <code>Streamlit</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Dev Metrics & Cosmic Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Siva-Subramaniam-DS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="390" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siva-Subramaniam-DS&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="390" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siva-Subramaniam-DS&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+</p>
+
+---
+
+### 🪐 Let's Connect!
+
+<p align="center">
+  <a href="https://www.instagram.com/_siva_hokage_/?__pwa=1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Siva-Subramaniam-DS" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/moca-c/moca-c/main/images/line.gif" width="100%" alt="Separator" />
+</p>
+
+<p align="center">
+  <sub><i>Designed with ⚡ and 💙 by Siva Subramanian R.</i></sub>
+</p>
