@@ -1,134 +1,100 @@
 <div align="center">
 
-# 🔮 Siva Subramanian R
-### **AI & ML Consultant | Data Scientist | Full Stack Developer**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FFCC&height=120&section=header" width="100%" alt="" />
 
-<img src="mental_wellness.gif" width="600" alt="Mental Wellness & Motivation" />
+# Siva Subramaniam R
 
-<br /><br />
+### AI & ML Consultant · Data Scientist · Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=%F0%9F%8E%AE+AI+%26+ML+Consultant+%40+Innova8s;%F0%9F%94%A5+Patent+Holder+%7C+Real-Time+CV+Fire+Detection;%F0%9F%98%8A+Mental+Wellness+%26+Mindfulness+Advocate;%F0%9F%A7%A0+Deep+Learning+%26+Computer+Vision+Wizards" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=900&color=00FFCC&center=true&vCenter=true&width=640&lines=AI+%26+ML+Consultant+%40+Innova8s;Patent+holder%3A+real-time+fire+%26+smoke+detection;Computer+vision+%7C+Deep+learning+%7C+MLOps;From+AS%2F400+mainframes+to+neural+networks" alt="Typing headline" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/r-siva-subramanaiam/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/SivaSubbu1_4_1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=white&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:sivasubramaniam141@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p>
+  <a href="https://my-portfolio-nine-omega-62.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/r-siva-subramanaiam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/SivaSubbu1_4_1"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/_siva_hokage_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:sivasubramaniam141@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Siva-Subramaniam-DS&label=Profile+views&color=00FFCC&style=flat" alt="Profile views" />
 
 </div>
 
----
+## About me
 
-### 🎮 Character Stats: Siva Subramanian R
+I build, automate and scale production AI systems. My work spans computer vision, deep learning and cloud deployment, and I came to it by way of enterprise mainframes, so I am comfortable on both sides of the legacy-to-modern gap.
+
+- 🤖 **Now:** AI-ML Consultant at Innova8s Pte Ltd, shipping deep learning models with Docker, Kubernetes and GCP
+- 🔥 **Patent (2024):** co-inventor of a machine learning system for real-time fire and smoke detection
+- 💾 **Before:** AS/400 RPG III programmer at Inodesys Technologies, supporting Caterpillar (Netherlands) manufacturing systems
+- 🎓 **Studying:** M.Sc. in Artificial Intelligence & Data Science at SRM University (2023 to 2026)
+- 👟 **Off screen:** 10K runner, Leo Club volunteer, local developer meetup organizer
 
 ```yaml
-Class:        AI-ML Consultant & Full-Stack Mage 🔮
-Level:        26 ⚡ (M.Sc. AI & Data Science Candidate)
-Attributes:   +99 Deep Learning, +95 Computer Vision, +90 Legacy Mainframe (RPG III)
-Main Quest:   Building & scaling production-grade AI platforms at Innova8s Pte Ltd
-Achievements: 🏆 Co-inventor & Patent Holder of ML Fire/Smoke Detection System (2024)
-Active Buffs: 👟 10KM Marathon Runner, 😊 Mental Wellness Advocate, 🤝 Volunteer
-HP:           ████████████████ 100% (High Energy & Mindfulness)
-Mana:         ████████████░░░░  80% (Coffee-Fueled & Ready to Automate)
+role:      AI-ML Consultant @ Innova8s Pte Ltd
+focus:     [computer vision, deep learning, MLOps, full-stack apps]
+based_in:  Chennai, India
+languages: [English, Tamil, German (basic)]
 ```
 
-> *“Bridging legacy mainframe architectures with cutting-edge neural networks to build beautiful, intelligent systems that make an impact.”*
-
-I am an **AI & ML Consultant** and **Full Stack Developer** who loves crafting elegant code and automation workflows. By day, I'm containerizing deep learning models using Docker & Kubernetes and fine-tuning computer vision algorithms. By night, I'm building modern React applications with fluid GSAP animations or studying the mechanics of legacy enterprise mainframes.
-
-- 🤖 **Neural Innovation:** Co-invented and patented a machine learning system for real-time fire and smoke detection using advanced computer vision models (2024).
-- 💾 **Mainframe to Cloud:** Experienced in RPG III systems for enterprise heavyweights like **Caterpillar**, translating legacy database operations into sleek modern cloud infrastructures.
-- 🎓 **Infinite Loop of Learning:** Pursuing M.Sc. in AI & Data Science at SRM University while actively consulting and contributing to open-source systems.
-- 👟 **Active Runner:** Keeping the mind and body in sync—I regularly run 10Ks, volunteer at the Leo Club, and organize local tech meetups.
-
----
-
-### ⚡ Tech Stack & Spells
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,js,react,html,css,mongodb,postgres,docker,kubernetes,gcp,figma,tailwind,git,vscode" alt="My Tech Stack" />
-  </a>
-</p>
-
----
-
-### 🎨 Highlighted Creations
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚜 GeoGreenAI</h4>
-      <p>AI-powered environmental analytics dashboard processing satellite imagery to assess green cover, urban planning, and air quality indices.</p>
-      <code>Python</code> <code>TensorFlow</code> <code>GCP</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎮 Raja Ranji</h4>
-      <p>Interactive digital recreation of the traditional South Indian board game featuring rich soundscapes and fluid GSAP visual choreography.</p>
-      <code>React.js</code> <code>GSAP</code> <code>Web Audio API</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>👁️ Intelligent Face Recognition</h4>
-      <p>Modular real-time deep neural network pipeline designed for rapid face identification, enrollment database administration, and visual analytics.</p>
-      <code>Python</code> <code>PyTorch</code> <code>OpenCV</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💰 Loan Risk Analytics</h4>
-      <p>Predictive modeling framework leveraging user financial credit vectors to evaluate approval probabilities and risk thresholds.</p>
-      <code>Scikit-Learn</code> <code>Pandas</code> <code>Streamlit</code>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Dev Metrics & Cosmic Stats
-
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Siva-Subramaniam-DS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="390" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siva-Subramaniam-DS&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="390" />
-      </td>
-    </tr>
-  </table>
+  <img src="mental_wellness.gif" width="420" alt="Mental wellness and motivation" />
 </div>
 
-<br />
+## Tech stack
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siva-Subramaniam-DS&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn,flask,django,js,ts,react,nextjs,tailwind&perline=12" alt="Languages and frameworks" />
 
-### 🪐 Let's Connect!
+<img src="https://skillicons.dev/icons?i=html,css,mongodb,postgres,docker,kubernetes,gcp,git,vscode,figma&perline=12" alt="Data, DevOps and tools" />
 
-<p align="center">
-  <a href="https://www.instagram.com/_siva_hokage_/?__pwa=1" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Siva-Subramaniam-DS" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/moca-c/moca-c/main/images/line.gif" width="100%" alt="Separator" />
-</p>
+| Area | Tools |
+|---|---|
+| AI & ML | PyTorch, TensorFlow, scikit-learn, OpenCV |
+| Web | React, Next.js, Flask, Django, Tailwind CSS, GSAP |
+| Data | MongoDB, DB2, SQL, Pandas, NumPy, Power BI, Tableau |
+| DevOps & Cloud | Docker, Kubernetes, Google Cloud Platform |
+| Enterprise | AS/400, RPG III, JD Edwards |
 
-<p align="center">
-  <sub><i>Designed with ⚡ and 💙 by Siva Subramanian R.</i></sub>
-</p>
+## Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🔥 [FireGuard IoT System](https://github.com/Siva-Subramaniam-DS/FireGuard-IoT-System) | Real-time fire and smoke detection with alarms and automatic extinguisher activation; the work behind the 2024 patent | Python, computer vision, IoT |
+| 🛡️ [SafeGuard HAMS](https://github.com/Siva-Subramaniam-DS/Human-Detection) | Human activity monitoring with pose-based fall detection and ArUco marker tracking | YOLOv8, OpenCV, web dashboard |
+| 🌱 [ImpactPulse](https://github.com/Siva-Subramaniam-DS/TCS-Project) | Verified impact-investing platform for the HSBC Challenge, TCS Sustainathon UK&I 2026 | Next.js, Python API |
+| ⚖️ [FinCouncil AI](https://github.com/Siva-Subramaniam-DS/fincouncil-ai) · [live](https://fincouncil-ai.vercel.app/) | Six AI agents debate an investment and return a consensus recommendation | TypeScript, Gemini, multi-agent |
+| 🗣️ [AI Debate Coach](https://github.com/Siva-Subramaniam-DS/AI-Debate-Coach) | Builds pro and con arguments, flags weak logic and spars on a topic | TypeScript, Gemini |
+| ⚡ [Grounded Developer Assistant](https://github.com/Siva-Subramaniam-DS/grounded-developer-assistant) | Chat assistant grounded in official Google developer docs through MCP | Python, Streamlit, Gemini, MCP |
+| 👁️ [Intelligent Face Recognition](https://github.com/Siva-Subramaniam-DS/intelligent-face-recognition) | Face enrollment and recognition web app with a recognition log | Flask, OpenCV, TensorFlow |
+| 💰 [Loan Approval](https://github.com/Siva-Subramaniam-DS/Loan-Approval) · [live](https://cibil-score-app.vercel.app) | CIBIL score and loan approval predictor | Flask, React, TypeScript |
+| 🏋️ [ACTIVEA Session Planner](https://github.com/Siva-Subramaniam-DS/ACTIVEA-project) | Plans an exercise session with a genetic algorithm | Python, optimization |
+| 🎮 [Raja Rani](https://github.com/Siva-Subramaniam-DS/RajaRani) · [play](https://siva-subramaniam-ds.github.io/RajaRani/) | Browser version of the traditional Indian role-card game | React, Vite |
+
+More on my [portfolio site](https://my-portfolio-nine-omega-62.vercel.app), including GeoGreenAI and client work.
+
+## GitHub activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siva-Subramaniam-DS&theme=tokyonight" width="100%" alt="Contribution summary" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siva-Subramaniam-DS&theme=tokyonight" width="49%" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siva-Subramaniam-DS&theme=tokyonight" width="49%" alt="Most committed languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Siva-Subramaniam-DS&theme=tokyonight&hide_border=true" width="70%" alt="Contribution streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siva-Subramaniam-DS&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity graph" />
+
+</div>
+
+## Let's connect
+
+Open to conversations about computer vision, applied AI and production ML. Reach me on [LinkedIn](https://www.linkedin.com/in/r-siva-subramanaiam/) or by [email](mailto:sivasubramaniam141@gmail.com).
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFCC,100:0D1117&height=100&section=footer" width="100%" alt="" />
+</div>
